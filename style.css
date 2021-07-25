@@ -2,6 +2,15 @@ body{
   background: #dc9df2;
   margin: 50px;
 }
+.Netherscape{
+  position: absolute;
+  margin-left: 72px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: Space-between;
+  padding: 25px;
+  background: #a3a3a3
+}
 .portal{
   margin:12px;
   background: #4a2f52;
@@ -10,5 +19,6 @@ body{
 }
 
 .portal-depth{
-  margin: 8px
+  margin: 6px;
+  background: #000000;
 }
