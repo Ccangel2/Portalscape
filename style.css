@@ -10,12 +10,13 @@ body{
   flex-wrap: wrap;
   justify-content: ;
   padding: 25px;
-  background: #a3a3a3
+  background: #9776a3
+  z-index: 0;
   float:left;
 }
 .portal{
   margin:12px;
-  background: #4a2f52;
+  background: #6e457d;
   Height:260px;
   width: 200px;
   padding: 20 px;
@@ -25,7 +26,11 @@ body{
 
 #Title{
   position: fixed;
-  margin-left: 254px; 
+  margin-left: 234px; 
+  z-index: 1;
+  font-size: 22px;
+  font-family: Cursive;
+  
 }
 
 
