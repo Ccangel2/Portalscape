@@ -1,5 +1,5 @@
 body{
-  background: #dc9df2;
+  background: #e6d8eb;
   margin: 50px;
 }
 .Netherscape{
@@ -24,8 +24,10 @@ body{
 }
 
 #Title{
-  
+  position: fixed;
+  margin-left: 254px; 
 }
+
 
 .portal-depth{
   
