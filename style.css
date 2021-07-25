@@ -7,7 +7,7 @@ body{
   margin-left: 72px;
   display: flex;
   flex-direction: row;
-  flex-wrap: Space-between;
+  flex-wrap: Space-evenly;
   padding: 25px;
   background: #a3a3a3
 }
