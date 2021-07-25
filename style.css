@@ -16,11 +16,11 @@ body{
 }
 .portal{
   margin:12px;
-  background: #6e457d;
   Height:260px;
   width: 200px;
   padding: 20 px;
   border-radius: 100 px;
+  background-image: url(assets/11.png);
   
 }
 
@@ -39,6 +39,8 @@ body{
 }
 
 .escape_1{
-  background-image: url("assets/12.jpg");
+  background-image: 
 }
+
+
 
