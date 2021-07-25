@@ -8,6 +8,7 @@ body{
   display: flex;
   flex-direction: row;
   flex-wrap: Space-evenly;
+  justify-content: ;
   padding: 25px;
   background: #a3a3a3
 }
@@ -16,6 +17,8 @@ body{
   background: #4a2f52;
   Height:260px;
   width: 200px;
+  padding: 20 px;
+  
 }
 
 .portal-depth{
