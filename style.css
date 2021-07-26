@@ -26,14 +26,13 @@ body{
   background-size:cover;
   z-index: 0;
   font-size: 200px;
-  display: flex;
-  Flex-wrap: space-evenly;
+ 
   
   
 }
 
 #Title{
-  position: fixed;
+  position: Absolute;
   margin-left: 488px; 
   z-index: 1;
   font-size: 22px;
