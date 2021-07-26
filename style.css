@@ -25,6 +25,11 @@ body{
   background-position: center;
   background-size:cover;
   z-index: 0;
+  font-size: 200px;
+  display: flex;
+  Flex-wrap: space-evenly;
+  
+  
 }
 
 #Title{
@@ -36,13 +41,8 @@ body{
   
 }
 
-.portal-depths1{
-  height: 100px;
-  width: 100px;
-  background-image: url("assests/portal_5.jpg");
-  z-index:1;
+
   
-}
 
 
 
