@@ -21,7 +21,9 @@ body{
   Height:260px;
   width: 200px;
   border-radius: 10 px;
-  background-image: url(assets/portal_11.jpg);
+  background: #b273c9;
+  background-position: center;
+  background-size:cover;
   z-index: 0;
 }
 
