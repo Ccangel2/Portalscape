@@ -30,7 +30,7 @@ body{
 #Title{
   position: fixed;
   margin-left: 234px; 
-  z-index: 0;
+  z-index: 1;
   font-size: 22px;
   font-family: Cursive;
   
@@ -41,8 +41,8 @@ body{
   
 }
 
-.escape_1{
-  background-image: 
+.portal-1{
+  background-image: url("assests/portal_5.jpg");
 }
 
 
