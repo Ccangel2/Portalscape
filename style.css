@@ -2,6 +2,7 @@ body{
   background: #e6d8eb;
   margin: 50px;
 }
+
 .Netherscape{
   position: absolute;
   margin-left: 72px;
@@ -11,23 +12,23 @@ body{
   justify-content: ;
   padding: 25px;
   background: #9776a3
-  z-index: 0;
+  z-index: -2;
   float:left;
 }
+
 .portal{
   margin:12px;
   Height:260px;
   width: 200px;
-  padding: 20 px;
-  border-radius: 100 px;
-  background-image: url(assets/11.png);
-  
+  border-radius: 10 px;
+  background-image: url(assets/portal_11.jpg);
+  z-index: 0;
 }
 
 #Title{
   position: fixed;
   margin-left: 234px; 
-  z-index: 1;
+  z-index: 0;
   font-size: 22px;
   font-family: Cursive;
   
