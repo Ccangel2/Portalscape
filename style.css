@@ -54,7 +54,7 @@ a: hover{
 
 
 .depth1{
-  background-image: url("assets/portal2.jpg");
+  background-image: url("Assets/portal2.jpg");
   background-position: center;
   background-size: cover;
   width:  30%;
@@ -78,13 +78,13 @@ a: hover{
   width:  30%;
 }
 .depth5{
-   background-image: url("assets/portal6.jpg");
+   background-image: url("Assets/portal6.jpg");
   background-position: center;
   background-size: cover;
   width:  30%;
 }
 .depth6{
-   background-image: url("assets/portal7.jpg");
+   background-image: url("Assets/portal7.jpg");
   background-position: center;
   background-size: cover;
   width:  30%;
