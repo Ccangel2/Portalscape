@@ -66,8 +66,7 @@ a: hover{
 }
 .depth3{
    background-image: url("Assets/portal4.jpg");
-  background-position: right;
-  background-size: cover;
+  background-position: center;
   width:  30%;
 }
 .depth4{
