@@ -9,37 +9,122 @@ body{
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  justify-content: ;
-  padding: 25px;
-  background: #9776a3
-  z-index: -2;
-  float:left;
+  justify-content: space-evenly;
+  padding: 38px;
 }
 
 .portal{
   margin:12px;
   Height:260px;
   width: 200px;
-  border-radius: 10 px;
+  border-radius: 300px;
   background: #b273c9;
-  background-position: center;
-  background-size:cover;
-  z-index: 0;
   font-size: 200px;
- 
-  
   
 }
 
+a{
+  color: black;
+  text-decoration: none;
+}
+
+a: hover{
+  color: #1c945a;
+}
+
+
 #Title{
   position: Absolute;
-  margin-left: 488px; 
+  margin-left: 100px; 
   z-index: 1;
   font-size: 22px;
   font-family: Cursive;
   
 }
 
+.Signature {
+  position: fixed;
+  right: 0px; 
+  bottom: 0px;
+  width: 80px;
+  height:40px;
+  background-color:#e6d8eb;
+  padding: 5px;
+}
+
+
+.depth1{
+  background-image: url("assets/portal2.jpg");
+  background-position: center;
+  background-size: cover;
+  width:  30%;
+}
+.depth2{
+   background-image: url("assets/portal3.jpg");
+  background-position: center;
+  background-size: cover;
+  width:  30%;
+}
+.depth3{
+   background-image: url("assets/portal4.jpg");
+  background-position: center;
+  background-size: cover;
+  width:  30%;
+}
+.depth4{
+   background-image: url("assets/portal5.jpg");
+  background-position: center;
+  background-size: cover;
+  width:  30%;
+}
+.depth5{
+   background-image: url("assets/portal6.jpg");
+  background-position: center;
+  background-size: cover;
+  width:  30%;
+}
+.depth6{
+   background-image: url("assets/portal7.jpg");
+  background-position: center;
+  background-size: cover;
+  width:  30%;
+}
+.depth7{
+   background-image: url("assets/portal8.jpeg");
+  background-position: center;
+  background-size: cover;
+  width:  30%;
+}
+.depth8{
+   background-image: url("assets/portal9.jpg");
+  background-position: center;
+  background-size: cover;
+  width:  30%;
+}
+.depth9{
+   background-image: url("assets/portal10.jpg");
+  background-position: center;
+  background-size: cover;
+  width:  30%;
+}
+.depth10{
+   background-image: url("assets/portal11.jpg");
+  background-position: center;
+  background-size: cover;
+  width:  30%;
+}
+.depth11{
+   background-image: url("assets/portal12.jpg");
+  background-position: center;
+  background-size: cover;
+  width:  30%;
+}
+.depth12{
+   background-image: url("assets/portal1.png");
+  background-position: center;
+  background-size: cover;
+  width:  30%;
+}
 
   
 
